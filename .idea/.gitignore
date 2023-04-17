@@ -1,0 +1,38 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Flutter/Dart specific
+.dart_tool/
+.packages
+.pub/
+build/
+flutter_assets/
+ios/Pods/
+*.lock
+*.xcworkspace
+*.pbxproj
+*.mode1v3
+*.mode2v3
+*.moved-aside
+*.xccheckout
+*.podspec.json
+
+# IDE files
+*.iml
+.idea/
+.vscode/
+*.suo
+*.user
+*.sln
+*.sln.docstates
+
+# Generated files
+*.log
+*.gz
+*.tar
+*.zip
+*.apk
+*.ipa
+*.jar
+*.aar
+*.class
